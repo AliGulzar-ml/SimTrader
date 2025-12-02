@@ -1,4 +1,4 @@
-# Stock Trader ML
+# Stock Trader ML (NOT READY)
 
 This project trains a gradient-boosted tree model to predict next-day stock direction,
 backtests the strategy on historical data, and generates daily BUY/SELL/HOLD signals
